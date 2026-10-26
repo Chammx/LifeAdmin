@@ -75,7 +75,7 @@ export default function DashboardPage() {
           animate={{ opacity: 1, y: 0 }}
         >
           <div>
-            <h1>Good morning, Chammu.</h1>
+            <h1>Good morning,</h1>
             <p>Here&apos;s what needs your attention today.</p>
           </div>
 
